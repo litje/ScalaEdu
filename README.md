@@ -55,7 +55,7 @@ spark  ：2.3.x      - ->   Scala：2.11    - ->   JDK：1.8.uxx
 
 ### 1、Scala数据类型
 
-![image-20211208165807181](C:\Users\it_mr\AppData\Roaming\Typora\typora-user-images\image-20211208165807181.png)
+![scala数据类型](images\scala数据类型.png)
 
 | 数据类型 | 描述                                                         |
 | :------- | :----------------------------------------------------------- |
@@ -632,7 +632,7 @@ iterMap.foreach(println)
 
 #### 3、Scala-Iterator 原理
 
-![image-20211210200023590](C:\Users\it_mr\AppData\Roaming\Typora\typora-user-images\image-20211210200023590.png)
+![Scala-Iterator 原理](images\Scala-Iterator原理.png)
 
 ## 6、Trait
 
