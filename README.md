@@ -3,6 +3,7 @@ Scala语言学习
 
 
 ## 1、解释Scala是什么语言
+https://www.scala-lang.org
 
 语言分类：解释型、编译型
 
@@ -54,9 +55,13 @@ Scala         java
 
 spark  ：2.3.x      - ->   Scala：2.11    - ->   JDK：1.8.uxx
 
+1.idea  中安装 scala 插件
+
+2.project structure --> Global Libraries --> download 需要的版本然后添加
+
 ### 1、Scala数据类型
 
-![scala数据类型](images\scala数据类型.png)
+![scala数据类型](https://github.com/litje/ScalaEdu/blob/main/images/scala%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
 
 | 数据类型 | 描述                                                         |
 | :------- | :----------------------------------------------------------- |
